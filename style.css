@@ -84,7 +84,6 @@
     padding: 12px 16px;
     border-radius: 50%;  
 }
-
 .count{
     border-right: solid 1px #D8A876;   
 }
@@ -166,7 +165,7 @@
 
 @media (max-width:425px){
 .main-p{
-    font-size: 14px;
+    font-size: 13px;
 }
 .serive-contents{
     top: 12px;
